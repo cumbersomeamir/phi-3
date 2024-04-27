@@ -20,3 +20,7 @@ ollama run phi3
 curl -X POST -H "Content-Type: application/json" -d '{"data": "Your prompt here"}' http://localhost:6000/run_phi3
 
 
+
+curl -X POST -H "Content-Type: application/json" -d '{"data": "Your prompt here"}' http://34.136.204.188:6000/run_phi3
+
+
