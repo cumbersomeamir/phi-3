@@ -24,3 +24,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"data": "Your prompt here"
 curl -X POST -H "Content-Type: application/json" -d '{"data": "Your prompt here"}' http://34.136.204.188:6000/run_phi3
 
 
+curl -X POST -H "Content-Type: application/json" -d '{"data": "Your prompt here"}' http://34.69.50.242:6000/run_phi3
+
+
+
